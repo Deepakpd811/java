@@ -1,3 +1,5 @@
+//binary search
+
 public class binarysearch {
 
     static int binarySearch(int arr[], int start, int end, int x) {
